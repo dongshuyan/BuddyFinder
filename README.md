@@ -52,7 +52,7 @@ nano ~/.claude.json
   "userID": "...",
   "oauth": {...},
   ...
-  // companion 字段已删除
+  // companion 字段已删除(一般在最下面)
 }
 ```
 
@@ -71,7 +71,7 @@ nano ~/.claude.json
 
 ```json
 {
-  "userID": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+  "userID": "118a0f5c305a7cd1232dd121cbf3029d44afb99b8d608fce016a6696fb8ed156",
   "oauth": {
     "accountUuid": "xxx"
   }
