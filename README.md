@@ -17,6 +17,8 @@ python3 buddy.py
 
 选择宠物属性 → 点「🚀 开始搜索」→ 等结果 → 点「📋 复制 UID」
 
+![GUI 界面](img/P1.png)
+
 ## 应用到 Claude Code
 
 ### ⚠️ 第 0 步：备份配置文件
